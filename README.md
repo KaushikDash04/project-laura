@@ -1,5 +1,3 @@
-
-```markdown
 # Welcome to Project Laura
 
 This project is a Python-based project that requires a virtual environment to run. Below are the guidelines to set up the project.
