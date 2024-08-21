@@ -1,0 +1,117 @@
+[
+    {
+        "timestamp": "2024-08-21 09:00:00",
+        "speaker_tag": "Hardeep",
+        "text": "Hardeep: Hi Kaushik, how are you doing today?"
+    },
+    {
+        "timestamp": "2024-08-21 09:00:05",
+        "speaker_tag": "Kaushik",
+        "text": "Kaushik: Hi Hardeep, I'm doing well. How about you?"
+    },
+    {
+        "timestamp": "2024-08-21 09:00:10",
+        "speaker_tag": "Hardeep",
+        "text": "Hardeep: I'm good too. Have you started working on the new project?"
+    },
+    {
+        "timestamp": "2024-08-21 09:00:15",
+        "speaker_tag": "Kaushik",
+        "text": "Kaushik: Yes, I have. It's quite challenging but interesting. What about you?"
+    },
+    {
+        "timestamp": "2024-08-21 09:00:20",
+        "speaker_tag": "Hardeep",
+        "text": "Hardeep: I'm still gathering some research materials. Should we discuss the project details over a call?"
+    },
+    {
+        "timestamp": "2024-08-21 09:00:30",
+        "speaker_tag": "Kaushik",
+        "text": "Kaushik: That sounds like a great idea. When are you available for a call?"
+    },
+    {
+        "timestamp": "2024-08-21 09:00:35",
+        "speaker_tag": "Hardeep",
+        "text": "Hardeep: How about 2 PM today? Does that work for you?"
+    },
+    {
+        "timestamp": "2024-08-21 09:00:40",
+        "speaker_tag": "Kaushik",
+        "text": "Kaushik: Yes, 2 PM works. I’ll send a calendar invite."
+    },
+    {
+        "timestamp": "2024-08-21 09:00:50",
+        "speaker_tag": "Hardeep",
+        "text": "Hardeep: Perfect. By the way, did you hear about the new policy changes in the department?"
+    },
+    {
+        "timestamp": "2024-08-21 09:01:00",
+        "speaker_tag": "Kaushik",
+        "text": "Kaushik: No, I haven't. What changes are being made?"
+    },
+    {
+        "timestamp": "2024-08-21 09:01:10",
+        "speaker_tag": "Hardeep",
+        "text": "Hardeep: They are implementing flexible working hours and allowing more remote work options."
+    },
+    {
+        "timestamp": "2024-08-21 09:01:20",
+        "speaker_tag": "Kaushik",
+        "text": "Kaushik: That sounds like a positive change. I think it will help with work-life balance."
+    },
+    {
+        "timestamp": "2024-08-21 09:01:30",
+        "speaker_tag": "Hardeep",
+        "text": "Hardeep: Definitely. Anyway, have you had a chance to try out the new coffee machine in the break room?"
+    },
+    {
+        "timestamp": "2024-08-21 09:01:40",
+        "speaker_tag": "Kaushik",
+        "text": "Kaushik: Not yet. I’ve heard it’s quite good. I’ll check it out later."
+    },
+    {
+        "timestamp": "2024-08-21 09:01:50",
+        "speaker_tag": "Hardeep",
+        "text": "Hardeep: Yeah, it’s pretty nice. They even have some new flavors."
+    },
+    {
+        "timestamp": "2024-08-21 09:02:00",
+        "speaker_tag": "Kaushik",
+        "text": "Kaushik: Great, I’ll make sure to try it. Thanks for the heads up."
+    },
+    {
+        "timestamp": "2024-08-21 09:02:10",
+        "speaker_tag": "Hardeep",
+        "text": "Hardeep: No problem. Oh, did you watch the game last night?"
+    },
+    {
+        "timestamp": "2024-08-21 09:02:20",
+        "speaker_tag": "Kaushik",
+        "text": "Kaushik: Yes, I did. It was an exciting match!"
+    },
+    {
+        "timestamp": "2024-08-21 09:02:30",
+        "speaker_tag": "Hardeep",
+        "text": "Hardeep: Totally. The last-minute goal was incredible."
+    },
+    {
+        "timestamp": "2024-08-21 09:02:40",
+        "speaker_tag": "Kaushik",
+        "text": "Kaushik: Absolutely. I’m looking forward to the next game."
+    },
+    {
+        "timestamp": "2024-08-21 09:02:50",
+        "speaker_tag": "Hardeep",
+        "text": "Hardeep: Me too. Anyway, I should get back to work. Let’s catch up later."
+    },
+    {
+        "timestamp": "2024-08-21 09:03:00",
+        "speaker_tag": "Kaushik",
+        "text": "Kaushik: Sure, talk to you later. Have a good day!"
+    },
+    {
+        "timestamp": "2024-08-21 09:03:10",
+        "speaker_tag": "Hardeep",
+        "text": "Hardeep: You too. Bye!"
+    }
+]

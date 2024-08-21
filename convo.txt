@@ -1,0 +1,48 @@
+Here's a vocal script you can use for conversation testing, covering multiple languages (Hindi, Odia, and English) and common scenarios:
+
+---
+
+### **Conversation Script**
+
+#### **Scene 1: Greeting (Morning)**
+- **English**: "Good morning! How are you today?"
+- **Hindi**: "सुप्रभात! आप आज कैसे हैं?"
+- **Odia**: "ସୁପ୍ରଭାତ! ଆଜି ଆପଣ କେମିତି ଅଛନ୍ତି?"
+
+#### **Scene 2: Asking About Breakfast**
+- **English**: "Did you have breakfast?"
+- **Hindi**: "क्या आपने नाश्ता किया?"
+- **Odia**: "ଆପଣ ନାସ୍ତା କରିଛନ୍ତି କି?"
+
+#### **Scene 3: Discussing Weather**
+- **English**: "The weather is nice today, isn't it?"
+- **Hindi**: "आज मौसम अच्छा है, है ना?"
+- **Odia**: "ଆଜିର ପଗଡିଆ ଭଲ ଅଛି, ତା କଣ?"
+
+#### **Scene 4: Asking About Work**
+- **English**: "What are your plans for work today?"
+- **Hindi**: "आज आपके काम के क्या योजनाएँ हैं?"
+- **Odia**: "ଆଜି କାର୍ଯ୍ୟ ପାଇଁ ଆପଣଙ୍କର କ'ଣ ଯୋଜନା ଅଛି?"
+
+#### **Scene 5: Afternoon Chat**
+- **English**: "Did you finish the project you were working on?"
+- **Hindi**: "क्या आपने वो प्रोजेक्ट पूरा किया जिस पर आप काम कर रहे थे?"
+- **Odia**: "ଆପଣ ଆଉଠି ନିୟମିତ କାମ ସାରି ଦେଲା କି?"
+
+#### **Scene 6: Evening Plans**
+- **English**: "What are your plans for the evening?"
+- **Hindi**: "शाम के लिए आपकी क्या योजनाएँ हैं?"
+- **Odia**: "ସନ୍ଧ୍ୟା ପାଇଁ ଆପଣଙ୍କ କ'ଣ ଯୋଜନା ଅଛି?"
+
+#### **Scene 7: Wrapping Up the Day**
+- **English**: "It was a long day, I'm feeling tired."
+- **Hindi**: "आज दिन लंबा था, मैं थका हुआ महसूस कर रहा हूँ।"
+- **Odia**: "ଆଜି ଦିନଟା ଲମ୍ବା ଥିଲା, ମୁଁ କ୍ଲାନ୍ତ ଅନୁଭବ କରୁଛି।"
+
+---
+
+### **Testing Tips:**
+
+1. **Pronunciation Variety**: Try varying your pronunciation and speaking speed to see how the speech recognition handles different accents and tones.
+2. **Background Noise**: Test in different environments, including quiet and noisy backgrounds, to evaluate the accuracy of recognition.
+3. **Language Switching**: Speak different parts of the script in different languages to
